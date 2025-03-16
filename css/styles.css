@@ -107,15 +107,11 @@ button {
     display: none;  
 }
 .burger-menu-btn {  
-    border-color: transparent; 
-    display: block;
-    visibility: visible;
+    border-color: transparent;     
 }
 
-.burger-menu-icon {    
-    stroke: #2f2f37;  
-    display: block;
-    visibility: visible;      
+.burger-menu-icon {  
+    fill: #2f2f37; 
 }
  
 
