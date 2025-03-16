@@ -108,10 +108,12 @@ button {
 }
 .burger-menu-btn {  
     border-color: transparent; 
+    display: block;
 }
 
 .burger-menu-icon {    
-    stroke: #2f2f37;        
+    stroke: #2f2f37;  
+    display: block;      
 }
  
 
